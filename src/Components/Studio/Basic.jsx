@@ -16,7 +16,7 @@ function Basic() {
   const [channelName, setChannelName] = useState();
   const [channelDescription, setChannelDescription] = useState();
   const [channelID, setChannelID] = useState("");
-  const channelUrl = "https://video-streaming-kle.vercel.app/channel";
+  const channelUrl = "https://streaming-server.vercel.app/channel";
   const channelIDInputRef = useRef(null);
   const [Basicchanges, setBasicChanges] = useState(false);
   const [Linkchanges, setLinkChanges] = useState(false);

@@ -26,7 +26,7 @@ function VideoDetails() {
   const [previewTitle, setPreviewTitle] = useState("");
   const [previewDescription, setPreviewDescription] = useState("");
   const [previewTags, setPreviewTags] = useState("");
-  const videolink = "https://video-streaming-kle.vercel.app/video";
+  const videolink = "https://streaming-server.vercel.app/video";
   const [thumbnailImage, setThumbnailImage] = useState(null);
   const [thumbnailSelected, setThumbnailSelected] = useState(false);
   const [finalThumbnail, setFinalThumbnail] = useState(null);
