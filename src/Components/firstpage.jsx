@@ -24,7 +24,7 @@ const FirstPage = () => {
                 </nav>
                 <h1>Video Streaming Server</h1>
                 <div className="links">
-                    <a href="https://streaming-server.vercel.app/home" target="_blank" rel="noopener noreferrer">
+                    <a href="https://video-streaming-server.vercel.app/home" target="_blank" rel="noopener noreferrer">
                         Home
                     </a>
                 </div>
