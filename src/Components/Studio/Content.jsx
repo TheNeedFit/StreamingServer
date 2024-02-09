@@ -34,7 +34,7 @@ function Content() {
   const [isDeleteClicked, setIsDeleteClicked] = useState(false);
   const [DeleteVideoData, setDeleteVideoData] = useState();
   const [boxclicked, setBoxClicked] = useState(false);
-  const videoUrl = "https://video-streaming-server.vercel.app/video";
+  const videoUrl = "https://video-streaming-server00.vercel.app/video";
   const [loading, setLoading] = useState(true);
   const [menu, setmenu] = useState(() => {
     const menu = localStorage.getItem("studioMenuClicked");

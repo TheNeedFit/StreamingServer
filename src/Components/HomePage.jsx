@@ -62,7 +62,7 @@ const HomePage = () => {
         marginTop: "20px",
         textAlign: "center",
       }}>
-        <a href="https://video-streaming-server.vercel.app/home" target="_blank" rel="noopener noreferrer" style={{
+        <a href="https://video-streaming-server00.vercel.app/home" target="_blank" rel="noopener noreferrer" style={{
           display: "inline-block",
           padding: "10px 20px",
           margin: "0 10px",
