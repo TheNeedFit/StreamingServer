@@ -6,7 +6,9 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['@material-ui/icons']
+      external: ['@mui/icons/Add']
+
+
     }
   }
 })
