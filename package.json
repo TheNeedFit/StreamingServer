@@ -8,13 +8,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview" ,
-    "predeploy" : "npm run build"
+    "preview": "vite preview",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@coreui/react": "^4.8.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@material-ui/icons": "^4.11.3",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.5",
     "animate.css": "^4.1.1",

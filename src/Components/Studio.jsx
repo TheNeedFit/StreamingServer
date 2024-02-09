@@ -16,8 +16,6 @@ import CloudDoneRoundedIcon from "@mui/icons-material/CloudDoneRounded";
 import LinkIcon from "@mui/icons-material/Link";
 import Tooltip from "@mui/material/Tooltip";
 import Zoom from "@mui/material/Zoom";
-import ArrowDropDownRoundedIcon from "@mui/icons-material/ArrowDropDownRounded";
-import VideoCallOutlinedIcon from "@mui/icons-material/VideoCallOutlined";
 import Dashboard from "./Studio/Dashboard";
 import AddIcon from '@material-ui/icons/Add';
 
